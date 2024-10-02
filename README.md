@@ -16,9 +16,13 @@
 
 - 🌱 I’m currently learning **Scrum Master, SHRM**
 
-- 💬 Ask me about **I am Shumaila Tahir, pursuing a Bachelor's degree in Tourism and Hospitality Management, proudly based in Rabwah, Pakistan. My professional journey commenced at RevelTek Company, where I immersed myself in a year-long experience that significantly enriched my skills and deepened my understanding of the dynamic IT industry. Currently, I hold the esteemed position of Scrum Master at Privs, where I play a pivotal role in steering projects to success through the effective implementation of Agile methodologies. In this capacity, I orchestrate collaborative efforts, instill Scrum best practices, and cultivate a harmonious team environment, all geared towards achieving our goals with utmost efficiency.**
+- 💬 Ask me about **I’m Shumaila Tahir, a driven professional currently pursuing a Bachelor's degree in Tourism and Hospitality Management, with roots in the scenic town of Murree, Pakistan. My journey in the professional world began at RevelTek Company, where I immersed myself in the IT industry, gaining valuable skills and insights that set the foundation for my career.**
 
-- 📫 How to reach me **shumailatahir@focuspass.com**
+**Today, I proudly serve as a Scrum Master at Privs, where I lead teams in delivering successful projects by applying Agile methodologies and fostering a culture of collaboration and innovation. I am passionate about streamlining processes, instilling best practices, and ensuring my teams achieve their goals with precision and efficiency.**
+
+**My diverse experience spans roles as a data entry specialist, marketing executive, and quality assurance manager at Outsourcing4work, a renowned German organization. Following this, I transitioned into HR management at RevelTek, further honing my leadership abilities. Currently, I hold the position of HR, Marketing Executive, and Sales Manager at FinsoulBPO, where I continue to excel in team management and business growth.**
+
+- 📫 How to reach me **shumailatahir92@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
